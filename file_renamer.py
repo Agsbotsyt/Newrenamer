@@ -42,7 +42,7 @@ def main():
 
     # Set up the Telegram Bot API token
 
-    bot_token = "YOUR_BOT_TOKEN"
+    bot_token = "6227649599:AAG1b9IY7QOvT-Mo8KlPg8fSm6fz7a99j3U"
 
     # Create an instance of the Updater class with your bot token
 
